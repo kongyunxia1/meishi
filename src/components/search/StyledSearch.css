@@ -1,0 +1,25 @@
+
+  div{
+    display:flex;
+    justify-content:center;
+    /* align-item:center; */
+    height:.4rem;
+    border:1px solid #ee742f;
+    background-color:#fff;
+  }
+    /* i{} */
+      img{
+        margin-top:.1rem;
+        margin-right:.1rem;
+        width:.2rem;
+        height:.2rem;
+      }
+    
+    span{
+      margin-top:.1rem;
+      color:#666;
+    }
+
+
+
+
